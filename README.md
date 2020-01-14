@@ -7,10 +7,10 @@ to get much more information(details, menus, reviews,...) upon selection of the 
 
 # Site Peek
 ![s1](https://user-images.githubusercontent.com/51264308/72367474-e59eae00-3704-11ea-8565-39835292a566.png)
-![s2](https://user-images.githubusercontent.com/51264308/72367472-e5061780-3704-11ea-92fd-cb043993366a.png)
-![s3](https://user-images.githubusercontent.com/51264308/72367470-e46d8100-3704-11ea-9d28-b13ead05a588.png)
-![s4](https://user-images.githubusercontent.com/51264308/72367468-e3d4ea80-3704-11ea-8ecd-f2a364cc1414.png)
-![s5](https://user-images.githubusercontent.com/51264308/72367467-e3d4ea80-3704-11ea-8143-9071b2c5ea59.png)
+![s2](https://user-images.githubusercontent.com/51264308/72368093-0ddadc80-3706-11ea-9ac0-bc0a41367964.png)
+![s3](https://user-images.githubusercontent.com/51264308/72368091-0ddadc80-3706-11ea-82a3-f7c4db358827.png)
+![s4](https://user-images.githubusercontent.com/51264308/72368090-0d424600-3706-11ea-869e-bbdc0d894fce.png)
+![s5](https://user-images.githubusercontent.com/51264308/72368089-0d424600-3706-11ea-898b-336531550ff3.png)
 
 
 ## Dependencies
